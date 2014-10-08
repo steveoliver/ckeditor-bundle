@@ -5,5 +5,6 @@
   "authors": "CKSource - Frederico Knabben (http://cksource.com)",
   "license": "http://ckeditor.com/about/license",
   "homepage": "https://github.com/steveoliver/ckeditor-bundle",
+  "version": "4.4.5",
   "main": "./ckeditor.js"
 }
